@@ -23,3 +23,5 @@ function App() {
 }
 
 export default App;
+
+/* we also removed the 'user' prop from the components since we'll be accessing that data via context instead*/
